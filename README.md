@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Carlos
+- 👋 Hi, I’m Carlos
 - 👀 I’m interested in ... everything
 - 🌱 I’m currently learning ... Python and its usage on data
 - 💞️ I’m looking to collaborate on ...
